@@ -1,14 +1,21 @@
-# Ex-02 Admin
-# STUDENT DETAILS :
-Name : PYNAM VINODH
+# Ex-02-Admin
+# Name:PYNAM VINODH
+# Ref:23004069
 
 
-Department : AIML
+# AIM
+To create 5 users using django
 
-Reference N0 : 23004069
-# Aim
+# Design Procedure
+# Step 1:
+Creating five users
 
-# Procedure
+# Step 2:
+Two staff users and three non-staff users
 
+# Step 3:
+Setting e-mail for all users
 
-# Output
+# Step 4:
+Setting the first name and last name for all users
+ ![Screenshot 2023-11-21 184016](https://github.com/PYNAMVINODH/ODD2023-WT-Ex-02-Admin/assets/145742678/505e3e99-f4b6-45c6-82bd-014dd1feaec6)
