@@ -1,6 +1,14 @@
-# Ex-02-Admin
+# Ex-02 Admin
+# STUDENT DETAILS :
+Name : PYNAM VINODH
 
-# AIM
+
+Department : AIML
+
+Reference N0 : 23004069
+# Aim
+
+# Procedure
 
 
-# Design Procedure
+# Output
