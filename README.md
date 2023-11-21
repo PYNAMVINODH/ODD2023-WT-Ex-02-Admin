@@ -18,4 +18,5 @@ Setting e-mail for all users
 
 # Step 4:
 Setting the first name and last name for all users
+# output
  ![Screenshot 2023-11-21 184016](https://github.com/PYNAMVINODH/ODD2023-WT-Ex-02-Admin/assets/145742678/505e3e99-f4b6-45c6-82bd-014dd1feaec6)
